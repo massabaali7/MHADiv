@@ -1,4 +1,4 @@
-# MHADiv
+# MultiHeadAttentionDivisible (MHADiv)
 MultiHeadAttention Layer: 
 
 
